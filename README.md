@@ -3,7 +3,7 @@
 - Displays country names, flags, and capitals based on the entered currency code.
 - Provides a seamless user experience with client-side functionality.
 
-# steps to configure projecy locally:
+# steps to configure project locally:
 
 step 1- 
 - create a file on your local system
