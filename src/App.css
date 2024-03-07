@@ -1,0 +1,42 @@
+body {
+  z-index: -1;
+  background-color: rgba(228, 213, 116, 0.593);
+}
+
+.searchBackground {
+  display: flex;
+  background-image: url("./background/Untitled\ design.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 350px;
+  justify-content: center;
+  fill: width;
+}
+
+.searchBox {
+  float: left;
+  padding: 10px;
+  border: 3px solid rgba(228, 213, 116, 0.593);
+  height: 50px;
+  width: 500px;
+  margin-top: 120px;
+  font-size: 20px;
+  border-radius: 2rem;
+}
+.button {
+  padding: 8px 12px;
+  border: 3px solid rgb(228, 213, 116);
+  margin-top: 120px;
+  border-radius: 2rem;
+  cursor: pointer;
+  height: 50px;
+  background-color: white;
+}
+
+.card-body img {
+  width: 250px;
+}
+.card-align {
+  margin: 20px;
+  display: inline-block;
+}
